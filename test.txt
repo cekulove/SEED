@@ -1,3 +1,5 @@
 Hello World !
 Hello Vim !
 Hello Ubuntu !
+Hello Linux !
+Hello Javascript !
