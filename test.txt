@@ -16,4 +16,4 @@ git commit -m "commit info"
 git push -u origin master
 git config --global user.name "username"
 git config --global user.email "user_email"
-ssh-keygen -t esa -C "user_email"
+ssh-keygen -t rsa -C "user_email"
