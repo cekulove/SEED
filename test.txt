@@ -3,3 +3,17 @@ Hello Vim !
 Hello Ubuntu !
 Hello Linux !
 Hello Javascript !
+git log
+git reflog
+git init
+git status
+git diff
+git clone SSH/HTTPS
+git remote rm origin
+git remote add origin SSH
+git add filename
+git commit -m "commit info"
+git push -u origin master
+git config --global user.name "username"
+git config --global user.email "user_email"
+ssh-keygen -t esa -C "user_email"
