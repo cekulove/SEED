@@ -3,17 +3,25 @@ Hello Vim !
 Hello Ubuntu !
 Hello Linux !
 Hello Javascript !
+
 git log
 git reflog
 git init
 git status
 git diff
 git clone SSH/HTTPS
+
+git remote -v
 git remote rm origin
 git remote add origin SSH
+
 git add filename
 git commit -m "commit info"
 git push -u origin master
+
+git add .
+git commit -am "commit info"
+git push
 
 git config --global --list
 git config --global user.name "username"
